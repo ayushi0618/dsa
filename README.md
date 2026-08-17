@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ayushi0618/dsa/tree/master/0009-palindrome-number) |
 | [1563-stone-game-v](https://github.com/ayushi0618/dsa/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ayushi0618/dsa/tree/master/2029-stone-game-ix) |
 ## Greedy
