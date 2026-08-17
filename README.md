@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/ayushi0618/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ayushi0618/dsa/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ayushi0618/dsa/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/ayushi0618/dsa/tree/master/0010-regular-expression-matching) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayushi0618/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushi0618/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushi0618/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/ayushi0618/dsa/tree/master/0010-regular-expression-matching) |
 | [1563-stone-game-v](https://github.com/ayushi0618/dsa/tree/master/1563-stone-game-v) |
 ## Two Pointers
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushi0618/dsa/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ayushi0618/dsa/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
