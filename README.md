@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushi0618/dsa/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ayushi0618/dsa/tree/master/0015-3sum) |
 | [1563-stone-game-v](https://github.com/ayushi0618/dsa/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ayushi0618/dsa/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayushi0618/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushi0618/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/ayushi0618/dsa/tree/master/0015-3sum) |
 ## Manacher
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushi0618/dsa/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ayushi0618/dsa/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
