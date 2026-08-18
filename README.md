@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0006-zigzag-conversion](https://github.com/ayushi0618/dsa/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ayushi0618/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ayushi0618/dsa/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/ayushi0618/dsa/tree/master/0012-integer-to-roman) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayushi0618/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushi0618/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushi0618/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ayushi0618/dsa/tree/master/0012-integer-to-roman) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushi0618/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayushi0618/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ayushi0618/dsa/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ayushi0618/dsa/tree/master/0012-integer-to-roman) |
 | [1563-stone-game-v](https://github.com/ayushi0618/dsa/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ayushi0618/dsa/tree/master/2029-stone-game-ix) |
 ## Greedy
