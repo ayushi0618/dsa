@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushi0618/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ayushi0618/dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayushi0618/dsa/tree/master/0022-generate-parentheses) |
+| [1927-sum-game](https://github.com/ayushi0618/dsa/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayushi0618/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushi0618/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/ayushi0618/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushi0618/dsa/tree/master/0013-roman-to-integer) |
 | [1563-stone-game-v](https://github.com/ayushi0618/dsa/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ayushi0618/dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayushi0618/dsa/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushi0618/dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushi0618/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ayushi0618/dsa/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/ayushi0618/dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayushi0618/dsa/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/ayushi0618/dsa/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ayushi0618/dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayushi0618/dsa/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
