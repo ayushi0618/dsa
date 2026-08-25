@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/ayushi0618/dsa/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayushi0618/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayushi0618/dsa/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushi0618/dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushi0618/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/ayushi0618/dsa/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushi0618/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1386-cinema-seat-allocation](https://github.com/ayushi0618/dsa/tree/master/1386-cinema-seat-allocation) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushi0618/dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushi0618/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayushi0618/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushi0618/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/ayushi0618/dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayushi0618/dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayushi0618/dsa/tree/master/0018-4sum) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushi0618/dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Simulation
 |  |
 | ------- |
