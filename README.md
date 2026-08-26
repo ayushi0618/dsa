@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/ayushi0618/dsa/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushi0618/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1927-sum-game](https://github.com/ayushi0618/dsa/tree/master/1927-sum-game) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ayushi0618/dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayushi0618/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayushi0618/dsa/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushi0618/dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ayushi0618/dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushi0618/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
