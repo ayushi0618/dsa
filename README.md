@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushi0618/dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayushi0618/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushi0618/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ayushi0618/dsa/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Segment Tree
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/ayushi0618/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/ayushi0618/dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayushi0618/dsa/tree/master/2029-stone-game-ix) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ayushi0618/dsa/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Minimax
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushi0618/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ayushi0618/dsa/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Z Algorithm
 |  |
 | ------- |
