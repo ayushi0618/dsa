@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1563-stone-game-v](https://github.com/ayushi0618/dsa/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ayushi0618/dsa/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ayushi0618/dsa/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushi0618/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayushi0618/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushi0618/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushi0618/dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/ayushi0618/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/ayushi0618/dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayushi0618/dsa/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushi0618/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ayushi0618/dsa/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushi0618/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
