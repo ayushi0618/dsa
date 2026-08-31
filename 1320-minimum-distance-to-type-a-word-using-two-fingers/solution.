@@ -1,0 +1,52 @@
+class Solution {
+public:
+    int dist(int a, int b) {
+        if (a == 26 || b == 26) return 0;
+
+        int r1 = a / 6, c1 = a % 6;
+        int r2 = b / 6, c2 = b % 6;
+
+        return abs(r1 - r2) + abs(c1 - c2);
+    }
+
+    int minimumDistance(string word) {
+        const int INF = 1e9;
+
+        vector<vector<int>> dp(27, vector<int>(27, INF));
+        dp[26][26] = 0;
+
+        for (char ch : word) {
+            int c = ch - 'A';
+            vector<vector<int>> ndp(27, vector<int>(27, INF));
+
+            for (int i = 0; i <= 26; i++) {
+                for (int j = 0; j <= 26; j++) {
+                    if (dp[i][j] == INF) continue;
+
+                    ndp[c][j] = min(
+                        ndp[c][j],
+                        dp[i][j] + dist(i, c)
+                    );
+
+                    ndp[i][c] = min(
+                        ndp[i][c],
+                        dp[i][j] + dist(j, c)
+                    );
+                }
+            }
+
+            dp = ndp;
+        }
+
+        int ans = INF;
+
+        for (int i = 0; i <= 26; i++) {
+            for (int j = 0; j <= 26; j++) {
+                ans = min(ans, dp[i][j]);
+            }
+        }
+
+        return ans;
+    }
+};
+
