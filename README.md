@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+835-image-overlap/README.md
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushi0618/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Prefix Sum
 |  |
