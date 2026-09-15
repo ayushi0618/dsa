@@ -1,0 +1,49 @@
+class Solution {
+public:
+    int maxPalindromes(string s, int k) {
+
+        int n = s.length();
+
+        // palindrome[i][j] = true if s[i...j] is palindrome
+        vector<vector<bool>> palindrome(n, vector<bool>(n, false));
+
+        // Find all palindromic substrings
+        for (int len = 1; len <= n; len++) {
+
+            for (int i = 0; i + len <= n; i++) {
+
+                int j = i + len - 1;
+
+                if (s[i] == s[j] &&
+                    (len <= 2 || palindrome[i + 1][j - 1])) {
+
+                    palindrome[i][j] = true;
+                }
+            }
+        }
+
+        // dp[i] = maximum number of palindromes
+        // that can be selected from index i onwards
+        vector<int> dp(n + 1, 0);
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            // Option 1: Skip index i
+            dp[i] = dp[i + 1];
+
+            // Option 2: Choose a palindrome
+            for (int j = i + k - 1; j < n; j++) {
+
+                if (palindrome[i][j]) {
+
+                    dp[i] = max(
+                        dp[i],
+                        1 + dp[j + 1]
+                    );
+                }
+            }
+        }
+
+        return dp[0];
+    }
+};
