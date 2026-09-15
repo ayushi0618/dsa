@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayushi0618/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushi0618/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ayushi0618/dsa/tree/master/3474-lexicographically-smallest-generated-string) |
+max palindrome 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushi0618/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Segment Tree
 |  |
