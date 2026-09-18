@@ -36,7 +36,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/ayushi0618/dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushi0618/dsa/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushi0618/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
-| [0020-valid-parentheses](https://github.com/ayushi0618/dsa/tree/master/0020-valid-parentheses) |
+| [0020-valid-parentheses](https://github.com/ayushi0618/dsa/tree/master/0020-valid-parentheses)
+[1520- Maximum Number of non-overlapping substring ]|
 | [0022-generate-parentheses](https://github.com/ayushi0618/dsa/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushi0618/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/ayushi0618/dsa/tree/master/0657-robot-return-to-origin) |
