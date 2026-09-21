@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/lexicographically-smallest-generated-string">3770. Lexicographically Smallest Generated String</a></h2><h3>Hard</h3><hr><p>You are given two strings, <code>str1</code> and <code>str2</code>, of lengths <code>n</code> and <code>m</code>, respectively.</p>
+<h2><a href="https://leetcode.com/problems/lexicographically-smallest-generated-string">3474. Lexicographically Smallest Generated String</a></h2><h3>Hard</h3><hr><p>You are given two strings, <code>str1</code> and <code>str2</code>, of lengths <code>n</code> and <code>m</code>, respectively.</p>
 
 <p>A string <code>word</code> of length <code>n + m - 1</code> is defined to be <strong>generated</strong> by <code>str1</code> and <code>str2</code> if it satisfies the following conditions for <strong>each</strong> index <code>0 &lt;= i &lt;= n - 1</code>:</p>
 
