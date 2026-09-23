@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/decode-the-slanted-ciphertext">2197. Decode the Slanted Ciphertext</a></h2><h3>Medium</h3><hr><p>A string <code>originalText</code> is encoded using a <strong>slanted transposition cipher</strong> to a string <code>encodedText</code> with the help of a matrix having a <strong>fixed number of rows</strong> <code>rows</code>.</p>
+<h2><a href="https://leetcode.com/problems/decode-the-slanted-ciphertext">2075. Decode the Slanted Ciphertext</a></h2><h3>Medium</h3><hr><p>A string <code>originalText</code> is encoded using a <strong>slanted transposition cipher</strong> to a string <code>encodedText</code> with the help of a matrix having a <strong>fixed number of rows</strong> <code>rows</code>.</p>
 
 <p><code>originalText</code> is placed first in a top-left to bottom-right manner.</p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/11/07/exa11.png" style="width: 300px; height: 185px;" />
